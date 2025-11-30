@@ -2,3 +2,4 @@ Log Gomoto
 [30/11/2025 11:43:09] App utilizado
 [30/11/2025 11:44:12] App utilizado
 [30/11/2025 11:44:30] App utilizado
+[30/11/2025 11:46:18] App utilizado
